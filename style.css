@@ -1,0 +1,46 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+ }
+
+.main_container  {
+   border: 1px solid black;
+   height: 99vh;
+   display:flex;
+   justify-content: space-between;
+}
+
+body{
+   background-color: lightgrey}
+
+   .img-container img {
+      width:auto;
+      height: auto;
+   }
+
+.boxes   {
+   border: 0.1px solid;
+  /* height: 99px;
+  width: 99px; */
+  font-size: 20px;
+}
+
+#box1 {
+   /* border: 2px solid ; */
+  
+}
+
+#box2 {
+   /* border: 1px solid red; */
+   
+}
+
+#box3 {
+   border: 1px solid green;
+}
+
+#box3 {
+   border: 1px solid green;
+}
+
